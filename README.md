@@ -22,7 +22,7 @@ Uma API de gerenciamento de carros desenvolvida em Kotlin utilizando Spring Boot
 
 ### Frontend
 
-- (Aqui você pode detalhar as tecnologias do frontend caso haja uma interface gráfica específica)
+- (HTML,CSS E JAVASCRIPT)
 
 ## ⚙️ Configuração do Projeto
 
